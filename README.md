@@ -7,4 +7,4 @@ This game was my second project for my Python I class to learn how to utilize th
 The game was also used to practice passing arguments into functions by passing the guess input into the defined function and looping until a correct answer is given.
 
 ### Author
-I am Ana-Maria Gayfield and I am currently pursuing my passion for Python.
+I am Ana-Maria Gayfield and this is project 2/5 for Python I.
